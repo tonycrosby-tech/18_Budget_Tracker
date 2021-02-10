@@ -16,7 +16,7 @@ https://tonycrosby.net/19_budget_tracker
 # Installations
 > npm i
 # Screenshots 
-![HW](.\public\images\budgetracker.JPG)
+![HW](./public/images/budgetracker.JPG)
 
 # Usage
 AS AN avid traveller
