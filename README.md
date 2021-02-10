@@ -2,7 +2,7 @@
 ![GitHub Stars:](https://img.shields.io/github/stars/tonycrosby-tech/19_budget_tracker)
 # Budget Tracker
 # Description
-This project is a budget tracker it lets you update your budget online or offline
+This project is a budget tracker it lets you update your budget online or offline. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 # Deployed Application
 https://tonycrosby.net/19_budget_tracker
 # Table of Contents
@@ -19,7 +19,9 @@ https://tonycrosby.net/19_budget_tracker
 ![HW](.\public\images\budgetracker.JPG)
 
 # Usage
-As a user, I want to be able to view my budget and keep track of recent transactions
+AS AN avid traveller
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling
 # License
 MIT
 # Credits
