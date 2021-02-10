@@ -29,7 +29,7 @@ https://github.com/tonycrosby-tech/19_Budget_Tracker - Couldn't get it to deploy
 
 ![HW](./public/images/budgetracker.JPG)
 
-![HW](.public/images/hw.gif)
+![HW](./public/images/hw.gif)
 
 # Usage
 
